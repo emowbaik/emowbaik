@@ -21,6 +21,14 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=emowbaik&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
+<div align="left">
+  <a href="https://open.spotify.com/user/31chbte665pb65do2rlhf5dyx6q4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31chbte665pb65do2rlhf5dyx6q4&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 ---
 [![](https://visitcount.itsvg.in/api?id=emowbaik&icon=10&color=13)](https://visitcount.itsvg.in)
 
