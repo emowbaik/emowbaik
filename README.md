@@ -30,6 +30,7 @@
 ###
 
 ---
-[[![](https://visitcount.itsvg.in/api?id=emowbaik&icon=10&color=13)](https://visitcount.itsvg.in)](https://count.getloli.com/@emowbaik?name=emowbaik&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+<a href="https://hataken.eu.org" target="_blank"><img src="https://count.getloli.com/get/@emowbaik?theme=rule34" width="100%" alt="emow Moe Counter" /></a>
+<!-- [[![](https://visitcount.itsvg.in/api?id=emowbaik&icon=10&color=13)](https://visitcount.itsvg.in)](https://count.getloli.com/@emowbaik?name=emowbaik&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
